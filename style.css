@@ -1,0 +1,56 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.search-bar {
+  text-align: center;
+  background-color: #eeeeee;
+  width: 1199px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-bar input {
+  width: 315px;
+}
+
+.footer {
+  width: 1200px;
+  height: 83px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box {
+  height: 83px;
+  padding: 1px;
+  margin: 1px;
+  text-align: center;
+}
+
+#box1 {
+  width: 35vh;
+  float: left;
+  background-color: #7ee5da;
+}
+
+#box2 {
+  width: 20vh;
+  float: left;
+  background-color: #70ccc2;
+}
+
+#box3 {
+  width: 54.45vh;
+  float: left;
+  background-color: #62b3aa;
+}
+
+.copyright {
+  text-align: center;
+}
